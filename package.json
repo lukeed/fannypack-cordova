@@ -1,0 +1,27 @@
+{
+  "name": "fannypack-cordova",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": {
+    "name": "Luke Edwards",
+    "email": "luke@lukeed.com",
+    "url": "http://www.lukeed.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukeed/fannypack-cordova.git"
+  },
+  "keywords": ["gulp", "cordova", "fannypack", "webpack"],
+  "dependencies": {
+    "gulp-cordova-access": "0.0.1",
+    "gulp-cordova-build-android": "^1.1.0",
+    "gulp-cordova-build-ios": "^1.0.0",
+    "gulp-cordova-create": "^1.0.1",
+    "gulp-cordova-plugin": "^1.3.2",
+    "gulp-cordova-xml": "0.0.2"
+  }
+}
